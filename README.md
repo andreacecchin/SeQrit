@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 
 <p align="center">
-    <img src="Icone/logo.png" style="width:275px;height:auto">
+    <img src="Icone/Logo.png" style="width:275px;height:auto">
 </p>
 
 <p align="center">
