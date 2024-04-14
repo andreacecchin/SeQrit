@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icone/FM.png</file>
+        <file>Icone/FF.png</file>
+        <file>Icone/IconaApp.png</file>
+        <file>Icone/IconaAttesa.png</file>
+        <file>Icone/IconaRicerca.png</file>
+        <file>Icone/IconaSchierato.png</file>
+        <file>Icone/IconaSegnalazione.png</file>
+        <file>Icone/MM.png</file>
+        <file>Icone/MF.png</file>
+        <file>Icone/SM.png</file>
+        <file>Icone/SF.png</file>
+        <file>Icone/VM.png</file>
+        <file>Icone/VF.png</file>
+        <file>Icone/Logo.png</file>
+    </qresource>
+</RCC>

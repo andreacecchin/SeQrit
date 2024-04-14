@@ -1,0 +1,563 @@
+{
+    "Operatore": [
+        {
+            "arma": true,
+            "cognome": "Gadalla",
+            "corpo_op": "Polizia",
+            "eta": 26,
+            "id": "F01",
+            "nome": "Marco",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": true,
+            "cognome": "Torregrossa",
+            "corpo_op": "Esercito",
+            "eta": 40,
+            "id": "F08",
+            "nome": "Fernando",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": false,
+            "cognome": "Canalone",
+            "corpo_op": "Polizia",
+            "eta": 33,
+            "id": "F11",
+            "nome": "Elisabetta",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": false
+        },
+        {
+            "arma": false,
+            "cognome": "Gobbo",
+            "corpo_op": "Esercito",
+            "eta": 24,
+            "id": "F16",
+            "nome": "Giovanni",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": true,
+            "cognome": "Poretti",
+            "corpo_op": "Carabinieri",
+            "eta": 36,
+            "id": "F22",
+            "nome": "Matteo",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "arma": false,
+            "cognome": "Gama",
+            "corpo_op": "Carabinieri",
+            "eta": 20,
+            "id": "F23",
+            "nome": "Sara",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": false
+        },
+        {
+            "arma": true,
+            "cognome": "Raimondo",
+            "corpo_op": "Esercito",
+            "eta": 48,
+            "id": "F29",
+            "nome": "Sebastiano",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "arma": true,
+            "cognome": "Montanaro",
+            "corpo_op": "Carabinieri",
+            "eta": 21,
+            "id": "F49",
+            "nome": "Paolo",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": false,
+            "cognome": "Ferretto",
+            "corpo_op": "Esercito",
+            "eta": 52,
+            "id": "F55",
+            "nome": "Elena",
+            "segnalazione": true,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "arma": true,
+            "cognome": "McLaren",
+            "corpo_op": "Polizia",
+            "eta": 27,
+            "id": "F60",
+            "nome": "Olga",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "arma": true,
+            "cognome": "Abete",
+            "corpo_op": "Esercito",
+            "eta": 46,
+            "id": "F66",
+            "nome": "Ignazio",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": false,
+            "cognome": "Viola",
+            "corpo_op": "Polizia",
+            "eta": 45,
+            "id": "F68",
+            "nome": "Mario",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "arma": false,
+            "cognome": "Mastroiani",
+            "corpo_op": "Carabinieri",
+            "eta": 60,
+            "id": "F71",
+            "nome": "Ubaldo",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": false,
+            "cognome": "Binoddo",
+            "corpo_op": "Carabinieri",
+            "eta": 52,
+            "id": "F75",
+            "nome": "Mattia",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "arma": true,
+            "cognome": "Passuello",
+            "corpo_op": "Esercito",
+            "eta": 35,
+            "id": "F79",
+            "nome": "Paolo",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "arma": false,
+            "cognome": "Rosso",
+            "corpo_op": "Carabinieri",
+            "eta": 26,
+            "id": "F84",
+            "nome": "Marco",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Lerta",
+            "eta": 44,
+            "id": "S09",
+            "internazionale": false,
+            "nome": "Carlo",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 4
+        },
+        {
+            "cognome": "Veneziano",
+            "eta": 23,
+            "id": "S14",
+            "internazionale": true,
+            "nome": "Sebastiano",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 6
+        },
+        {
+            "cognome": "Sabbadin",
+            "eta": 32,
+            "id": "S19",
+            "internazionale": false,
+            "nome": "Luca",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 3
+        },
+        {
+            "cognome": "Gallo",
+            "eta": 20,
+            "id": "S25",
+            "internazionale": true,
+            "nome": "Elena",
+            "sesso": "F",
+            "status_attuale": true,
+            "stipendio": 4
+        },
+        {
+            "cognome": "Giacomazzi",
+            "eta": 31,
+            "id": "S28",
+            "internazionale": false,
+            "nome": "Andrea",
+            "sesso": "M",
+            "status_attuale": false,
+            "stipendio": 2
+        },
+        {
+            "cognome": "Cavallo",
+            "eta": 29,
+            "id": "S29",
+            "internazionale": true,
+            "nome": "Riccardo",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 6
+        },
+        {
+            "cognome": "Fumagalli",
+            "eta": 25,
+            "id": "S31",
+            "internazionale": true,
+            "nome": "Maddalena",
+            "sesso": "F",
+            "status_attuale": false,
+            "stipendio": 8
+        },
+        {
+            "cognome": "Emilia",
+            "eta": 44,
+            "id": "S44",
+            "internazionale": true,
+            "nome": "Luigi",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 8
+        },
+        {
+            "cognome": "Salamandra",
+            "eta": 25,
+            "id": "S56",
+            "internazionale": true,
+            "nome": "Alessandro",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 5
+        },
+        {
+            "cognome": "Curtarolo",
+            "eta": 28,
+            "id": "S63",
+            "internazionale": false,
+            "nome": "Patrick",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 4
+        },
+        {
+            "cognome": "Doria",
+            "eta": 22,
+            "id": "S69",
+            "internazionale": true,
+            "nome": "Andrea",
+            "sesso": "F",
+            "status_attuale": true,
+            "stipendio": 7
+        },
+        {
+            "cognome": "Merta",
+            "eta": 65,
+            "id": "S74",
+            "internazionale": false,
+            "nome": "Carlo",
+            "sesso": "M",
+            "status_attuale": false,
+            "stipendio": 9
+        },
+        {
+            "cognome": "Chessida",
+            "eta": 29,
+            "id": "S79",
+            "internazionale": true,
+            "nome": "Franco",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 10
+        },
+        {
+            "cognome": "Pasa",
+            "eta": 32,
+            "id": "S80",
+            "internazionale": true,
+            "nome": "Mario",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 4
+        },
+        {
+            "cognome": "Lago",
+            "eta": 52,
+            "id": "S84",
+            "internazionale": false,
+            "nome": "Marta",
+            "sesso": "F",
+            "status_attuale": false,
+            "stipendio": 3
+        },
+        {
+            "cognome": "Andretta",
+            "eta": 25,
+            "id": "S88",
+            "internazionale": false,
+            "nome": "Giulia",
+            "sesso": "F",
+            "status_attuale": true,
+            "stipendio": 3
+        },
+        {
+            "cognome": "Donna",
+            "eta": 31,
+            "id": "S90",
+            "internazionale": false,
+            "nome": "Antonio",
+            "sesso": "M",
+            "status_attuale": true,
+            "stipendio": 1
+        },
+        {
+            "cognome": "Munari",
+            "eta": 22,
+            "id": "V03",
+            "nome": "Alessandro",
+            "piattaforma": false,
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Marchiori",
+            "eta": 45,
+            "id": "V13",
+            "nome": "Monica",
+            "piattaforma": true,
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Pobe",
+            "eta": 36,
+            "id": "V36",
+            "nome": "Tommaso",
+            "piattaforma": false,
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "cognome": "Buonari",
+            "eta": 33,
+            "id": "V40",
+            "nome": "Federico",
+            "piattaforma": true,
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Russo",
+            "eta": 41,
+            "id": "V58",
+            "nome": "Alessio",
+            "piattaforma": true,
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Tasso",
+            "eta": 29,
+            "id": "V97",
+            "nome": "Veronica",
+            "piattaforma": true,
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "blsd": false,
+            "cognome": "Nichele",
+            "eta": 22,
+            "gruppo_op": "Croce Rossa",
+            "id": "M09",
+            "nome": "Davide",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": true,
+            "cognome": "Nioni",
+            "eta": 25,
+            "gruppo_op": "Croce Rossa",
+            "id": "M12",
+            "nome": "Federica",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "blsd": true,
+            "cognome": "Drago",
+            "eta": 30,
+            "gruppo_op": "Croce Verde",
+            "id": "M16",
+            "nome": "Mario",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": false,
+            "cognome": "Ronaldo",
+            "eta": 25,
+            "gruppo_op": "Croce Rossa",
+            "id": "M25",
+            "nome": "Salvatore",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": true,
+            "cognome": "Forlani",
+            "eta": 18,
+            "gruppo_op": "Croce Rossa",
+            "id": "M29",
+            "nome": "Giorgio",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": false
+        },
+        {
+            "blsd": true,
+            "cognome": "Forlani",
+            "eta": 22,
+            "gruppo_op": "Croce Rossa",
+            "id": "M37",
+            "nome": "Giulio",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": false,
+            "cognome": "Vanni",
+            "eta": 21,
+            "gruppo_op": "Croce Verde",
+            "id": "M39",
+            "nome": "Anastasia",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "blsd": true,
+            "cognome": "Bocca",
+            "eta": 20,
+            "gruppo_op": "Croce Rossa",
+            "id": "M47",
+            "nome": "Francesca",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": true
+        },
+        {
+            "blsd": true,
+            "cognome": "Gecchin",
+            "eta": 41,
+            "gruppo_op": "Croce Verde",
+            "id": "M59",
+            "nome": "Dario",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": false,
+            "cognome": "Galeazzo",
+            "eta": 32,
+            "gruppo_op": "Croce Verde",
+            "id": "M62",
+            "nome": "Sara",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": false
+        },
+        {
+            "blsd": true,
+            "cognome": "Sabbadin",
+            "eta": 20,
+            "gruppo_op": "Croce Rossa",
+            "id": "M77",
+            "nome": "Luca",
+            "segnalazione": true,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "blsd": false,
+            "cognome": "Parodia",
+            "eta": 44,
+            "gruppo_op": "Croce Verde",
+            "id": "M84",
+            "nome": "Benedetta",
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": false
+        },
+        {
+            "blsd": true,
+            "cognome": "Rumma",
+            "eta": 24,
+            "gruppo_op": "Croce Rossa",
+            "id": "M99",
+            "nome": "Gianluigi",
+            "segnalazione": false,
+            "sesso": "M",
+            "status_attuale": true
+        },
+        {
+            "cognome": "Sgarbossa",
+            "eta": 23,
+            "id": "V99",
+            "nome": "Chiara",
+            "piattaforma": false,
+            "segnalazione": false,
+            "sesso": "F",
+            "status_attuale": false
+        }
+    ]
+}
